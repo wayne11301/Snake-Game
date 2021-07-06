@@ -1,6 +1,6 @@
 # Snake-Game
 
-This is a simple "Snake Game" by C++, here's the rules:
+This is a simple "Snake Game" by C++, here're the rules:
 
 1. press w to move the snake upward
 2. press s to move the snake downward
